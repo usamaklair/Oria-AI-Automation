@@ -12,3 +12,5 @@ From the start, I wanted to explore how automation could feel human. Instead of 
 <h3 align="left">The Goal</h3>
 
 The goal was to translate that mission into an interface that looks effortless yet powerful. Every element, from layout to typography, needed to communicate trust, intelligence, and movement without visual noise.
+
+<h3 align="left">Brand Identity</h3>
