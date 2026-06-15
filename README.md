@@ -1,4 +1,4 @@
-<h1 align="center">Oria AI Automation</h1>
+<h1 align="center">Oria - AI Automation</h1>
 
 <h3 align="left">Oria Your intelligent automation companion</h3>
 
