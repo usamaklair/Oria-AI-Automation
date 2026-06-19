@@ -18,3 +18,8 @@ The goal was to translate that mission into an interface that looks effortless y
 Oria’s identity captures balance, precision meets flow. The logo combines soft curves and geometric strength, symbolizing harmony between human and machine. A refined color palette with neutral tones and subtle gradients reflects innovation wrapped in calm.
 
 I wanted the brand to breathe. By embracing negative space and modular grid systems, I ensured every component felt light and structured. The identity system was built to scale, consistent across UI, marketing, and motion.
+
+<h3 align="left">Process</h3>
+
+Discovery
+Explored automation pain points through research and market analysis. Identified how users think, act, and expect AI to behave.
