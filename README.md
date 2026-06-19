@@ -21,5 +21,5 @@ I wanted the brand to breathe. By embracing negative space and modular grid syst
 
 <h3 align="left">Process</h3>
 
-Discovery
+<h4 align="left">Discovery</h4>
 Explored automation pain points through research and market analysis. Identified how users think, act, and expect AI to behave.
