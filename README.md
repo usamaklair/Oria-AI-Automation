@@ -19,7 +19,7 @@ Oria’s identity captures balance, precision meets flow. The logo combines soft
 
 I wanted the brand to breathe. By embracing negative space and modular grid systems, I ensured every component felt light and structured. The identity system was built to scale, consistent across UI, marketing, and motion.
 
-<h3 align="left">Process</h3>
+<h2 align="left">Process</h2>
 
 <h4 align="left">Discovery</h4>
 Explored automation pain points through research and market analysis. Identified how users think, act, and expect AI to behave.
