@@ -26,3 +26,6 @@ Explored automation pain points through research and market analysis. Identified
 
 <h4 align="left">Planning</h4>
 Mapped user flows and wireframes, focusing on intuitive navigation and reduced cognitive load. Defined clear goals for each interaction.
+
+Execution
+Developed a clean UI and a cohesive design system. Refined microinteractions and typography for balance and rhythm, ensuring a calm yet modern experience.
