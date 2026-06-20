@@ -23,3 +23,6 @@ I wanted the brand to breathe. By embracing negative space and modular grid syst
 
 <h4 align="left">Discovery</h4>
 Explored automation pain points through research and market analysis. Identified how users think, act, and expect AI to behave.
+
+<h4 align="left">Planning</h4>
+Mapped user flows and wireframes, focusing on intuitive navigation and reduced cognitive load. Defined clear goals for each interaction.
