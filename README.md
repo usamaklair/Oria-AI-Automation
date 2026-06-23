@@ -29,3 +29,8 @@ Mapped user flows and wireframes, focusing on intuitive navigation and reduced c
 
 <h4 align="left">Execution</h4>
 Developed a clean UI and a cohesive design system. Refined microinteractions and typography for balance and rhythm, ensuring a calm yet modern experience.
+
+<h2 align="left">Outcome</h2>
+
+<h4 align="left">Brand</h4>
+Oria emerged as an intelligent, visually consistent product that saves users hours every week and reduces friction across daily operations.
