@@ -13,7 +13,7 @@ From the start, I wanted to explore how automation could feel human. Instead of 
 
 The goal was to translate that mission into an interface that looks effortless yet powerful. Every element, from layout to typography, needed to communicate trust, intelligence, and movement without visual noise.
 
-<h3 align="left">Brand Identity</h3>
+<h2 align="left">Brand Identity</h2>
 
 Oria’s identity captures balance, precision meets flow. The logo combines soft curves and geometric strength, symbolizing harmony between human and machine. A refined color palette with neutral tones and subtle gradients reflects innovation wrapped in calm.
 
