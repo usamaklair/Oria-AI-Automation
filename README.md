@@ -34,3 +34,6 @@ Developed a clean UI and a cohesive design system. Refined microinteractions and
 
 <h4 align="left">Brand</h4>
 Oria emerged as an intelligent, visually consistent product that saves users hours every week and reduces friction across daily operations.
+
+<h4 align="left">Designer</h4>
+Through this project, I learned how minimalism can express intelligence — not by showing less, but by showing just enough. Oria became not only a product but a design statement about balance and clarity.
