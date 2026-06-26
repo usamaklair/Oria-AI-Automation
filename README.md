@@ -3,7 +3,7 @@
 <h3 align="left">Oria - Your intelligent automation companion</h3>
 
 <p align="center">
-  <img src="Slide 16_9 - 26.png" width="100" title="Bitcoin"/>
+  <img src="Slide 16_9 - 26.png" width="100%" title="Bitcoin"/>
   &nbsp;&nbsp;&nbsp;
 </p>
 
