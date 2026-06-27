@@ -5,10 +5,11 @@
 Built to redefine how teams manage their time, Oria uses AI to automate workflows, eliminate repetitive tasks, and create a smoother path from idea to execution. It’s not just another productivity tool. it’s a thoughtful system designed to work quietly in the background while you focus on what truly matters.
 
 <p align="center">
-  <img src="Slide 16_9 - 26.png" width="100%" title="Bitcoin"/>
+  <img src="Slide 16_9 - 26.png" width="100%" title="Slide"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="Slide 16_9 - 2.jpgg" width="100%" title="Slide"/>
   &nbsp;&nbsp;&nbsp;
 </p>
-
 
 <h2 align="left">The Problem</h2>
 
