@@ -13,7 +13,7 @@ Built to redefine how teams manage their time, Oria uses AI to automate workflow
 
 <h2 align="left">The Problem</h2>
 
-Modern teams juggle countless tools, deadlines, and repetitive processes. The lack of harmony between systems often leads to wasted time and lost focus, exactly what Oria set out to fix...
+Modern teams juggle countless tools, deadlines, and repetitive processes. The lack of harmony between systems often leads to wasted time and lost focus, exactly what Oria set out to fix.
 From the start, I wanted to explore how automation could feel human. Instead of cold systems and cluttered dashboards, I envisioned a platform that understands flow, intuitive, simple, and visually calm.
 
 <h2 align="left">The Goal</h2>
