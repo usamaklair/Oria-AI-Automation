@@ -9,7 +9,9 @@ Built to redefine how teams manage their time, Oria uses AI to automate workflow
   &nbsp;&nbsp;&nbsp;
   <img src="Slide 16_9 - 2.jpg" width="100%" title="Slide"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="Slide 16_9 - 3.jpg" width="100%" title="Slide"/>
+  <img src="Slide 16_9 - 3.jpg" width="100%" title="Slide 3"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="Slide 16_9 - 4.jpg" width="100%" title="Slide 4"/>
   &nbsp;&nbsp;&nbsp;
 </p>
 
