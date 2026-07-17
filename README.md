@@ -68,11 +68,6 @@ Built to redefine how teams manage their time, Oria uses AI to automate workflow
 Modern teams juggle countless tools, deadlines, and repetitive processes. The lack of harmony between systems often leads to wasted time and lost focus, exactly what Oria set out to fix.
 From the start, I wanted to explore how automation could feel human. Instead of cold systems and cluttered dashboards, I envisioned a platform that understands flow, intuitive, simple, and visually calm.
 
-<p align="center">
-  <img src="Slide 16_9 - 3.jpg" width="100%" title="Slide 3"/>
-  &nbsp;&nbsp;&nbsp;
-</p>
-
 <h2 align="left">The Goal</h2>
 
 The goal was to translate that mission into an interface that looks effortless yet powerful. Every element, from layout to typography, needed to communicate trust, intelligence, and movement without visual noise.
@@ -82,6 +77,11 @@ The goal was to translate that mission into an interface that looks effortless y
 Oria’s identity captures balance, precision meets flow. The logo combines soft curves and geometric strength, symbolizing harmony between human and machine. A refined color palette with neutral tones and subtle gradients reflects innovation wrapped in calm.
 
 I wanted the brand to breathe. By embracing negative space and modular grid systems, I ensured every component felt light and structured. The identity system was built to scale, consistent across UI, marketing, and motion.
+
+<p align="center">
+  <img src="Slide 16_9 - 3.jpg" width="100%" title="Slide 3"/>
+  &nbsp;&nbsp;&nbsp;
+</p>
 
 <h2 align="left">Process</h2>
 
