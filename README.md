@@ -9,8 +9,6 @@ Built to redefine how teams manage their time, Oria uses AI to automate workflow
   &nbsp;&nbsp;&nbsp;
   <img src="Slide 16_9 - 2.jpg" width="100%" title="Slide"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="Slide 16_9 - 4.jpg" width="100%" title="Slide 4"/>
-  &nbsp;&nbsp;&nbsp;
   <img src="Slide 16_9 - 5.jpg" width="100%" title="Slide 5"/>
   &nbsp;&nbsp;&nbsp;
   <img src="Slide 16_9 - 6.jpg" width="100%" title="Slide 6"/>
@@ -80,6 +78,11 @@ I wanted the brand to breathe. By embracing negative space and modular grid syst
 
 <p align="center">
   <img src="Slide 16_9 - 3.jpg" width="100%" title="Slide 3"/>
+  &nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center">
+  <img src="Slide 16_9 - 4.jpg" width="100%" title="Slide 4"/>
   &nbsp;&nbsp;&nbsp;
 </p>
 
