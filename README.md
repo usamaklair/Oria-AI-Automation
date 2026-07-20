@@ -9,8 +9,6 @@ Built to redefine how teams manage their time, Oria uses AI to automate workflow
   &nbsp;&nbsp;&nbsp;
   <img src="Slide 16_9 - 2.jpg" width="100%" title="Slide"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="Slide 16_9 - 7.png" width="100%" title="Slide 7"/>
-  &nbsp;&nbsp;&nbsp;
   <img src="Slide 16_9 - 8.jpg" width="100%" title="Slide 8"/>
   &nbsp;&nbsp;&nbsp;
   <img src="Slide 16_9 - 9.jpg" width="100%" title="Slide 9"/>
@@ -90,6 +88,11 @@ I wanted the brand to breathe. By embracing negative space and modular grid syst
 
 <h4 align="left">Discovery</h4>
 Explored automation pain points through research and market analysis. Identified how users think, act, and expect AI to behave.
+
+<p align="center">
+  <img src="Slide 16_9 - 7.png" width="100%" title="Slide 7"/>
+  &nbsp;&nbsp;&nbsp;
+</p>
 
 <h4 align="left">Planning</h4>
 Mapped user flows and wireframes, focusing on intuitive navigation and reduced cognitive load. Defined clear goals for each interaction.
