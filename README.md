@@ -93,6 +93,8 @@ Explored automation pain points through research and market analysis. Identified
 <p align="center">
   <img src="Slide 16_9 - 7.png" width="100%" title="Slide 7"/>
   &nbsp;&nbsp;&nbsp;
+<img src="Slide 16_9 - 8.png" width="100%" title="Slide 8"/>
+  &nbsp;&nbsp;&nbsp;
 </p>
 
 <h4 align="left">Planning</h4>
